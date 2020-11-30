@@ -1,3 +1,3 @@
 module.exports = {
-    projects: ['<rootDir>/apps/tasks']
+    projects: ['<rootDir>/apps/tasks', '<rootDir>/libs/common-ui', '<rootDir>/libs/common-utils']
 }

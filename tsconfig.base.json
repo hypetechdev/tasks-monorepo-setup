@@ -15,7 +15,10 @@
         "skipLibCheck": true,
         "skipDefaultLibCheck": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "@hyt/common-ui": ["libs/common-ui/src/index.ts"],
+            "@hyt/common-utils": ["libs/common-utils/src/index.ts"]
+        }
     },
     "exclude": ["node_modules", "tmp"]
 }
