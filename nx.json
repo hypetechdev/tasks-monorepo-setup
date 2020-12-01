@@ -35,6 +35,9 @@
         },
         "common-utils": {
             "tags": []
+        },
+        "api-hooks": {
+            "tags": []
         }
     }
 }
